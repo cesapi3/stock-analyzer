@@ -1,0 +1,17 @@
+fastapi
+
+uvicorn
+
+pydantic
+
+dotenv
+
+requests
+
+pandas
+
+scikit-learn
+
+matplotlib
+
+json
